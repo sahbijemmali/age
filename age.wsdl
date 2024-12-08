@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <definitions
+        name="AgeService"
         xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
         targetNamespace="http://ageservice/"
         xmlns:tns="http://ageservice/"
         xmlns="http://schemas.xmlsoap.org/wsdl/"
-        name="AgeService">
+        >
 
     <types>
         <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://ageservice/">
